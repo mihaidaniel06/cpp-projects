@@ -30,3 +30,20 @@ Acest proiect este o aplicație de tip consolă scrisă în C++ pentru gestionar
 
 ## Exemplu format fișier `produse.txt`
 
+> **Format**: `nume_produs pret stoc` (separate prin spațiu)
+
+## Cerințe
+
+- Compilator C++ (ex: g++, Code::Blocks, Dev-C++)
+- Fișierul `produse.txt` trebuie să existe în același folder cu programul la prima rulare (poate fi gol, dar trebuie să existe)
+
+## Observații
+
+- Dacă parola este introdusă greșit de 3 ori, aplicația se închide automat.
+- Aplicația tratează cazurile de input invalid (ex: litere în loc de numere).
+- Codul este simplu și clar, potrivit pentru atestate sau proiecte de liceu.
+
+## Autor
+
+Proiect realizat de Constantin Mihai-Daniel, clasa a XII-a, profil mate-info, 2025.
+
